@@ -1,0 +1,5 @@
+# The access token can be obtained from https://developer.vimeo.com/apps
+# Create a new app then go to the authorization section and generate the token
+
+access_token:
+user_id:
